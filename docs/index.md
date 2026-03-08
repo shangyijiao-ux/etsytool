@@ -39,4 +39,4 @@ Email: shangyijiao@gmail.com
 
 ## Repository
 
-https://shangyijiao-ux.github.io/estytool/
+https://github.com/shangyijiao-ux/estytool
